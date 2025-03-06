@@ -39,9 +39,7 @@
         }
     </style>
 </head>
-<body>
-
-   <a href="T.2.html">TPC T.2</a>           
+<body>        
 
           <h2>Tabela de Estudantes</h2>
     <table>
